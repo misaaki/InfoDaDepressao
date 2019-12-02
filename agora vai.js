@@ -370,4 +370,4 @@ do {
     var PlayAgain = prompt('➮ Deseja jogar novamente? (/•ิ_•ิ)/' + '\n(Responda com S ou N)').toUpperCase();
   } while (PlayAgain != 'S' && PlayAgain != 'N');
 } while (PlayAgain != 'N');
-alert("FIM DE JOGO! ヽ(⊙０⊙)ノ' + '\n' + '\nObrigada por jogar!' + '\n' + '\nCRIADO POR: Antonella Cuello  (つ▀¯▀)つ');
+alert('FIM DE JOGO! ヽ(⊙０⊙)ノ' + '\n' + '\nObrigada por jogar!' + '\n' + '\nCRIADO POR: Antonella Cuello  (つ▀¯▀)つ');
